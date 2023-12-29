@@ -1,6 +1,5 @@
 ### Hi there 👋 I'm Maria. Python-developer.
 
+* Python-developer and data engineer at SBER.
 
-* Yandex.Practicum graduate.
-
-* Languages and Tools: Python / Django/ Django REST Framework / PostgreSQL / Docker / Docker-Compose / Yandex.Cloud / HTML / Linux / Nginx
+* Languages and Tools: Python / Django / Django REST Framework / FastAPI / PostgreSQL / ClickHouse / Apache Airflow / Apache Ignite / Docker / Docker-Compose / Yandex.Cloud / Linux 
